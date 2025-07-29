@@ -4,18 +4,26 @@ title: はじめに
 nav_order: 1
 ---
 
-# hello world !!!
-FabLabSENDAI-FLATのドキュメントテンプレートです。
+# 電子工作ワークショップへようこそ
 
-## LINK
-This is our [web page's link](http://fablabsendai-flat.com/)
+ここでは、ワーキングプロトタイプを制作するための電子回路設計を学びます。
 
+回路図から必要な情報を読み取り、<br>
+ソフトウェア上で回路の機能をシミュレーションし、<br>
+ブレッドボードを用いて試作、<br>
+最終的にはハンダを使い実際に動く電子基板を制作することで、一連の流れを身につけます。
 
-## image
-<img src="images/コメント 2020-05-26 225341.jpg" alt="hi" class="inline"/>
+外見だけでなく、実際に機能する試作を制作するにはどうしたらよいか、<br>
+インターネット上に大量に存在する回路図を利用するには何が必要なのか、<br>
+より高度な試作を可能にする電子工作の基礎を学びましょう。
 
-## YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LR1SmL5JmHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## この資料の構成について
+このオンライン資料は、大きく分けて３つの項目に分かれています。
 
-## SoundCloud
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/595997727&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fablab-sendai" title="FabLab SENDAI" target="_blank" style="color: #cccccc; text-decoration: none;">FabLab SENDAI</a> · <a href="https://soundcloud.com/fablab-sendai/3jiku-ondo" title="三軸音頭(DEMO)" target="_blank" style="color: #cccccc; text-decoration: none;">三軸音頭(DEMO)</a></div>
+- **課題** : ワークショップ期間中に達成する必要のある各課題の説明。
+
+- **パーツ** : 製作する回路に電子使用するパーツの説明。
+
+- **Tips** : 回路設計&製作に役立つ、道具や手法の説明。
+
+課題は、大きく分けて全部で５つ。全て達成することが望まれます。<br>
