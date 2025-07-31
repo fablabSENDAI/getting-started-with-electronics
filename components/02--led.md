@@ -8,7 +8,7 @@ nav_order: 2
 # LED
 
 ### 回路記号
-<img src="../images/component/LED/led_icon.jpg" alt="hi" class="inline"/>
+<img src="../images/component/LED/led_icon.jpg" alt="hi" class="inline" width="300"/>
 
 ### 解説
 //各足の解説
