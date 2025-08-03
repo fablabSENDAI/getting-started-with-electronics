@@ -11,7 +11,7 @@ nav_order: 1
 
 **＋と－のつなぎ間違いは一発で繊細なパーツをダメにするので注意！**
 
-### 
+ 
 |![回路記号](../images/component/battery/battery_icon.jpg)|![Tinkercad](../images/component/battery/battery_tinkercad.jpg)|![実物](../images/component/battery/battery_pinout.jpg)|
 |:--|:--|:--|
 |回路記号|Tinkercad|パーツ|
