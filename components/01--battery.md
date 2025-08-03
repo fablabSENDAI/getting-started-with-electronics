@@ -11,17 +11,17 @@ nav_order: 1
 
 **＋と－のつなぎ間違いは一発で繊細なパーツをダメにするので注意！**
 
- 
+
 |![回路記号](../images/component/battery/battery_icon.jpg)|![Tinkercad](../images/component/battery/battery_tinkercad.jpg)|![実物](../images/component/battery/battery_pinout.jpg)|
 |:--|:--|:--|
 |回路記号|Tinkercad|パーツ|
 
-### 各足の対応 (極性あり)
+### 各足の対応 (極性あり!)
 <span style="color:#36b1bf">**1**</span><br>
 電源の－(マイナス)。電子回路上では **GND (グラウンド)** と呼ばれる。
 
 
-<span style="color:#f2484b">**2**</span>
+<span style="color:#f2484b">**2**</span><br>
 電源の＋(プラス)。電子回路上では **Vcc (ブイシーシー)** と呼ばれる。<br>
 他に、Vin(ブイイン)、+V(プラスブイ)と表記されることもある。<br>
 近くに電源の電圧が表記されている時もある（今回の場合だと6V）。
