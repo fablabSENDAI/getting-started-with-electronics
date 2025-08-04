@@ -13,7 +13,7 @@ nav_order: 11
 |:--|:--|:--|
 |回路記号|Tinkercad|パーツ|
 
-### 各足の解説（極性あり！）
+## 各足の解説（極性あり！）
 
 <span style="color:#36b1bf">**1**</span><br>
 GND側の足。

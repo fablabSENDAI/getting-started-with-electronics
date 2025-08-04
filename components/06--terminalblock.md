@@ -14,7 +14,7 @@ nav_order: 6
 |:--|:--|:--|
 |回路記号|パーツ（正面）|パーツ（下）|
 
-### 各足の解説（極性なし）
+## 各足の解説（極性なし）
 <span style="color:#36b1bf">**1**</span><br>
 極性なしなので、＋－どちらに繋いでもOK。
 
@@ -28,9 +28,9 @@ nav_order: 6
 ![実物03](../images/component/terminalblock/terminalblock_pinout03.jpg)
 
 
-### 補足説明
+## 補足説明
 
-#### 線との接続方法
+### 線との接続方法
 パーツ上部の穴に、被膜を剥いた線を差し込んで接続するが、そのまま挿しても固定されない。<br>
 ![インサート01](../images/component/terminalblock/terminalblock_insert01.jpg)<br>
 
